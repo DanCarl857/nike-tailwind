@@ -1,4 +1,3 @@
-
 const Subscribe = () => {
   return (
     <div>Popular Products</div>
